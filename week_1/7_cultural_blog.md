@@ -23,3 +23,6 @@ Talk about what came up for you and anything you want in addition to the questio
 Link to your blog on the index of your github.io site and sync/push your changes. 
 
 Share your blog on the google+ community under "Blog Posts!" Read others blogs. What did you like about them? 
+
+
+I loved seeing that we are all in the same boat! We're all nervous, excited, and driven. Seems like a great group of people and I can't wait to meet them!
