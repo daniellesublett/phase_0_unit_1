@@ -7,7 +7,7 @@
   The standard default structure does make sense at a basic level, just like a basic wordpress template makes sense. Less choices to make, but the aesthetics and the functionality might not be exactly what the developer has oin mind. 
 
 * Do you like the new HTML5 elements, such as `<header>`, `footer`, and `nav`? Why or why not?
-  Yes! It's much more specific and intitive than naming everything 'div'
+  Yes! It's much more specific and intuitive than naming everything 'div'
 
 * Why is reset.css necessary?
   reset.css resets the default styles of some html tags, allowing you to customize things like unordered lists (if you don't want the default bullet points). 
