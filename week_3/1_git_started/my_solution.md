@@ -72,5 +72,7 @@ Working from the command line still scares me, and the only way to make that sto
 
 Many of the tutorials and reading materials started out at the very beginning of creating a github account, installing git etc. which seemed a little redundant. I know how to use git init and what it does, but I'm still fuzzy on how to get my my-solution.md file up to the correct branch. Only way to find out is to try it, so here goes nothin'! 
 
+I left feedback on GitHub for Alan Cohen and Antonio Danogond
+
 
 
